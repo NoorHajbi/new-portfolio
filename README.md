@@ -1,4 +1,4 @@
-- [Deployed Site URL](https://60afeceafdbe6d00af55b140--noor-new-portfolio.netlify.app/)
+- [Deployed Site URL](https://noor-new-portfolio.netlify.app/)
 
 Number and name of feature: Deploy, Profile Page,  Portfolio Page, Nav, Header and Footer, and
 Personalize
